@@ -103,4 +103,5 @@ TESTING*
 .vagrant
 Vagrantfile
 
-static/* linguist-vendored
+* linguist-vendored
+*.rb linguist-vendored=false
