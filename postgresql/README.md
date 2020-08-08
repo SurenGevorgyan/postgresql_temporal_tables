@@ -5,7 +5,7 @@ Onprem:   RHEL6/RHEL7/CentOS6/CentOS7 <br/>
 Azure:    RHEL6/RHEL7 <br/>
 
 
-##Cookbook is controlled mainly by these attributes <br/>
+## Cookbook is controlled by these attributes <br/>
 ```ruby
 default['environment'] = 'onprem' # onprem or azure
 default['temporal_tables']['config'] = true
